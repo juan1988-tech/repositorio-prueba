@@ -1,4 +1,6 @@
 # repositorio-prueba
 Repositorio para curso de Platzi
 
-Esta es mi contribución al proyect
+Esta es mi contribución al proyecto
+
+Este cambio viene de un entorno remoto
